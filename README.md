@@ -1,8 +1,4 @@
-# customer-churn-prediction
-
 Telecom Customer Churn Prediction
-https://via.placeholder.com/800x400?text=Customer+Churn+Analysis
-Visualization of customer churn patterns (example image)
 
 📌 Overview
 This project develops a machine learning solution to predict customer churn in the telecom industry. By analyzing historical customer data, we identify key indicators of churn and build predictive models to help telecom companies proactively retain customers and reduce acquisition costs.
